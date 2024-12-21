@@ -1,0 +1,2 @@
+*{box-sizing:border;margin:0;padding:0}body{font-family:JetBrains Mono,sans-serif;font-weight:400}.bookList{grid-gap:2rem;display:grid;gap:2rem;margin:5rem auto;max-width:1170px;width:90vw}@media screen and (min-width:768px){.bookList{grid-template-columns:repeat(3,1fr)}}.book{border-radius:1rem;padding:2rem;text-align:center}.book h2{font-size:1rem;margin-top:1rem}.book img{object-fit:cover;width:100%}.book h4{color:"#617d98";font-size:"0.75rem";letter-spacing:2px;margin-top:"0.5rem"}
+/*# sourceMappingURL=main.3fbede5a.css.map*/
